@@ -1,9 +1,9 @@
 {
-    "name": "ginfuru-better-solarized-dark-theme",
-    "displayName": "Better Solarized Dark",
-    "description": "A Better Solarized Dark theme for Visual Studio Code",
-    "version": "0.0.8",
-    "publisher": "ginfuru",
+    "name": "sfurlani-solarized-dark-x",
+    "displayName": "Solarized Dark X",
+    "description": "A simple Solarized Dark theme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "sfurlani",
     "engines": {
         "vscode": "^1.13.0"
     },
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Better Solarized Dark",
+                "label": "Solarized Dark X",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Better Solarized Dark-color-theme.json"
+                "path": "./themes/solarized_dark_x-color-theme.json"
             }
         ]
     },
@@ -31,10 +31,10 @@
         "atom"
     ],
     "license": "SEE license inf license.txt",
-    "homepage": "https://github.com/ginfuru/vscode-better-solarized-dark",
+    "homepage": "https://github.com/sfurlani/vscode-solarized-dark-x",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ginfuru/vscode-better-solarized-dark.git"
+        "url": "https://github.com/sfurlani/vscode-solarized-dark-x.git"
     },
-    "bugs": "https://github.com/ginfuru/vscode-better-solarized-dark/issues"
+    "bugs": "https://github.com/sfurlani/vscode-solarized-dark-x/issues"
 }
